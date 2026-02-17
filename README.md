@@ -1,6 +1,6 @@
-# 📊 Credit Risk Analysis – Exploratory Data Analysis (EDA)
+# Credit Risk Analysis – Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an exploratory data analysis (EDA) of a credit dataset aimed at understanding customer characteristics and identifying factors that may influence credit risk.
 
@@ -8,7 +8,7 @@ The main goal is to analyze patterns in borrower behavior, financial indicators,
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Perform data cleaning and preprocessing
 - Analyze distribution of key financial variables
@@ -18,7 +18,7 @@ The main goal is to analyze patterns in borrower behavior, financial indicators,
 
 ---
 
-## 🗂 Dataset Description
+## Dataset Description
 
 The dataset includes anonymized customer information such as:
 
@@ -30,7 +30,7 @@ The dataset includes anonymized customer information such as:
 
 ---
 
-## 🔎 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The analysis includes:
 
@@ -57,18 +57,16 @@ The analysis includes:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Borrowers with lower income show higher default probability.
 - Certain employment categories demonstrate elevated risk.
 - Loan-to-income ratio is a strong potential risk indicator.
 - Younger age groups tend to have more volatile repayment behavior.
 
-*(Update this section with your real insights from the notebook.)*
-
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
@@ -77,6 +75,3 @@ The analysis includes:
 - Seaborn
 - Jupyter Notebook
 
----
-
-## 📁 Project Structure
